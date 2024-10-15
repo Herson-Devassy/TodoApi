@@ -4,7 +4,7 @@
 
 This project implements a simple RESTful API for managing a to-do list, built using ASP.NET Core. 
 The API supports basic CRUD operations (Create, Read, Update, Delete) and includes additional features like marking items as completed, 
-filtering by due date or completion status, and sorting by due date. Input validation and optional basic authentication are also implemented.
+filtering by due date or completion status, and sorting by due date. Input validation also implemented.
 
 ## Design Choices
 
